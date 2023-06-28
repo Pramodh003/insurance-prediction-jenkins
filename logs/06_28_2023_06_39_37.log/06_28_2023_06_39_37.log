@@ -1,0 +1,3 @@
+[ 2023-06-28 06:39:40,369 ] 21 root - INFO - Entering into train and test split region
+[ 2023-06-28 06:39:40,385 ] 24 root - INFO - Reading that csv
+[ 2023-06-28 06:39:40,397 ] 27 root - INFO - Splitting the dataset

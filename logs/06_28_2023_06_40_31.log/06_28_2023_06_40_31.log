@@ -1,0 +1,5 @@
+[ 2023-06-28 06:40:32,175 ] 21 root - INFO - Entering into train and test split region
+[ 2023-06-28 06:40:32,191 ] 24 root - INFO - Reading that csv
+[ 2023-06-28 06:40:32,197 ] 27 root - INFO - Splitting the dataset
+[ 2023-06-28 06:40:32,203 ] 30 root - INFO - saving it as train data
+[ 2023-06-28 06:40:32,207 ] 32 root - INFO - Ingestion of dataset is completed
